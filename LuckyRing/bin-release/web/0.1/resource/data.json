@@ -1,0 +1,96 @@
+{
+  "resources": [
+
+    {
+      "name": "yRound",
+      "type": "image",
+      "url":  "assets/yRound.png"
+    },
+    {
+      "name": "yRound1",
+      "type": "image",
+      "url":  "assets/yRound1.png"
+    },
+    {
+      "name": "yRound3",
+      "type": "image",
+      "url":  "assets/yRound3.png"
+    },
+    {
+      "name": "preview",
+      "type": "image",
+      "url":  "assets/preview.png"
+    },
+    {
+      "name": "enterGame",
+      "type": "image",
+      "url":  "assets/enterGame.png"
+    },
+    {
+      "name": "introduce",
+      "type": "image",
+      "url":  "assets/introduce.png"
+    },
+    {
+      "name": "startgame",
+      "type": "image",
+      "url":  "assets/startgame.png"
+    },
+    {
+      "name": "gameViewBg",
+      "type": "image",
+      "url":  "assets/gameViewBg.png"
+    },
+    {
+      "name": "monkeyring",
+      "type": "image",
+      "url":  "assets/monkeyring.png"
+    },
+    {
+      "name": "co",
+      "type": "image",
+      "url":  "assets/co.png"
+    },
+    {
+      "name": "gameRuleView",
+      "type": "image",
+      "url":  "assets/gameRuleView.png"
+    },
+    {
+      "name": "gameEndView",
+      "type": "image",
+      "url":  "assets/gameEndView.png"
+    },
+    {
+      "name": "qrCode",
+      "type": "image",
+      "url":  "assets/qrCode.png"
+    },
+    {
+      "name": "shareView",
+      "type": "image",
+      "url":  "assets/shareView.png"
+    },
+    {
+      "name": "shareIcon",
+      "type": "image",
+      "url":  "assets/shareIcon.jpg"
+    },
+    {
+      "name": "load",
+      "type": "image",
+      "url":  "assets/load.gif"
+    }
+
+  ],
+  "groups": [
+    {
+      "name": "preload",
+      "keys": "load,yRound,yRound1,yRound3,preview,enterGame,introduce,startgame,gameViewBg,monkeyring,co,gameRuleView,gameEndView,qrCode,shareView,shareIcon"
+    },
+    {
+      "name": "load",
+      "keys": "load"
+    }
+  ]
+}
